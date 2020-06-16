@@ -6,3 +6,5 @@ DB is only accessible from WEB server. Also uses AWS ELB, number of servers are 
 `terraform apply -var 'number_of_instances=2`
 
 index.php file is automatically added to server.
+
+![alt text](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/images/con-VPC-sec-grp.png)
